@@ -1,4 +1,4 @@
-<div align="center" size="10px">
+<div align="center">
 # Whatsapp-scale-model
 </div>
 <img src="?/1.png">
